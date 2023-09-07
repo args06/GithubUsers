@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="menu_setting">Setting</string>
+    <string name="search_hint">Enter username…</string>
+    <string name="username">args06</string>
+    <string name="full_name">Muhammad Anjar Harimurti Rahadi</string>
+    <string name="bio">Informatics\'\'18\nFollback? DM</string>
+    <string name="zero">0</string>
+    <string name="repositories_title">Repositories</string>
+    <string name="followers_title">Followers</string>
+    <string name="following_title">Following</string>
+    <string name="star_title">Starred</string>
+    <string name="content_tab_text">This is Tab %1$s</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="no_data">There is no data</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
